@@ -15,9 +15,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="center" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" align="center" height="30" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" align="center" height="30" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" align="center" height="30" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" align="center" height="30" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" align="center" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" align="center" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" align="center" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" align="center" height="30" width="40"/>
   
 
 <img src="https://github.com/ramonbss/ramonbss/blob/main/Avatar1_no_bg.png?width=676&amp;height=676" alt="Rafa-pic" align="right" height="150" style="border-radius:50px;"/>
