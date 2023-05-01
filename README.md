@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/ramonbss">
 <img src="https://github-readme-stats.vercel.app/api?username=ramonbss&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonbss&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" height="180em"/>
   </div>
  
 ##
@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" align="center" height="30" width="40"/>
   
 
-<img src="https://github.com/ramonbss/ramonbss/blob/main/Avatar1_no_bg.png?width=676&amp;height=676" alt="Rafa-pic" align="right" height="150" style="border-radius:50px;"/>
+<img src="https://github.com/ramonbss/ramonbss/blob/main/Avatar1_no_bg.png?width=676&amp;height=676" alt="Ramon-pic" align="right" height="150" style="border-radius:50px;"/>
 
 </div>
 
